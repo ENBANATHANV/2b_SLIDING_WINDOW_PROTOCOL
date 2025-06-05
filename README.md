@@ -2,6 +2,7 @@
 ## NAME : ENBANATHAN V
 ## REGISTER NUMBER : 212224220027
 ## AIM
+The implementation of sliding protocol
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
